@@ -104,7 +104,7 @@ class ItemImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return SizedBox(
       width: 222,
-      height: 111,
+      height: 110,
       child: Align(
         alignment: Alignment.topCenter,
         child: ClipRRect(
